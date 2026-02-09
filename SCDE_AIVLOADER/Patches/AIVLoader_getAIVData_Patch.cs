@@ -119,6 +119,8 @@ namespace SCDE_AIVLOADER.Patches
 
             string aivPath = Path.Combine(basePath, filePrefix + fileId + ".aivjson");
 
+            MelonLogger.Msg("Trying aivJSON path: " + aivPath);
+
             if (!File.Exists(aivPath))
             {
                 MelonLogger.Msg("aivJSON not found: " + aivPath);

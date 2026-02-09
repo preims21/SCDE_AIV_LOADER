@@ -1,7 +1,7 @@
 ﻿using MelonLoader;
 using HarmonyLib;
 
-[assembly: MelonInfo(typeof(SCDE_AIVLOADER.AivLoaderMod), "Stronghold Crusader DE Classic AIV Loader", "1.0.0", "preims21")]
+[assembly: MelonInfo(typeof(SCDE_AIVLOADER.AivLoaderMod), "Stronghold Crusader DE Custom aivJSON Loader", "1.0.0", "preims21")]
 [assembly: MelonGame(null, null)]
 
 namespace SCDE_AIVLOADER
