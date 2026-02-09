@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCDE_AIVLOADER", "SCDE_AIVLOADER\SCDE_AIVLOADER.csproj", "{2D9DFCE2-F9DE-4DBC-A5B8-9C934E95300E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D9DFCE2-F9DE-4DBC-A5B8-9C934E95300E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9DFCE2-F9DE-4DBC-A5B8-9C934E95300E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9DFCE2-F9DE-4DBC-A5B8-9C934E95300E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9DFCE2-F9DE-4DBC-A5B8-9C934E95300E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
