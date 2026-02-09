@@ -11,6 +11,6 @@ This mod allows you to use override the games harcoded AIVs (used in the Trails 
 
 ## Using custom .aivjson files
 1. Create an Folder called "aiv" in the games install directory.
-2. Copy the .aivjson-Files you want to use into that directory 
-The Files need to be named simmilar to the .aiv-Files of the original Stronghold Crusader (e.G. rat1.aivjson, jewel6.aivjson, wolf2.aivjson, etc.)
+2. Copy the .aivjson-Files you want to use into that directory.     
+The Files need to be named simmilar to the .aiv-Files of the original Stronghold Crusader (e.G. rat1.aivjson, jewel6.aivjson, wolf2.aivjson, etc.)    
 If the Mod cant find a file for a Castle requested by the game it will use the games hardcoded ones.
