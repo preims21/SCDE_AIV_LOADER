@@ -1,7 +1,7 @@
 # Stronghold Crusader Definitve Edition Custom aivJSON Loader
 
 ## Summary
-This mod allows you to use override the games harcoded AIVs (used in the Trails for example) with custom .aivJSON files. 
+This mod allows you to use override the games hardcoded AIVs (used in the Trails for example) with custom .aivJSON files. 
 
 ## Installation
 1. Install MelonLoader [https://melonloader.co/](https://melonloader.co/). The install process is documented on their website.
